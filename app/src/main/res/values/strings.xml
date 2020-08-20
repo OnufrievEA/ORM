@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ORM</string>
+    <string name="app_name">ORM Room</string>
+    <string name="load_from_internet">Загрузить из интернета</string>
+    <string name="save_to_bd">Сохранить в БД</string>
+    <string name="show_all">Показать все</string>
+    <string name="delete_all">Удалить все</string>
 </resources>
